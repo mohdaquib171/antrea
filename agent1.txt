@@ -1,0 +1,10 @@
+I0220 19:56:16.374733       1 egress_controller.go:1208] Starting watch for EgressGroup
+I0220 19:56:16.374626       1 networkpolicy_controller.go:959] Starting watch for AddressGroup
+I0220 19:56:16.404790       1 networkpolicy_controller.go:974] Started watch for NetworkPolicy
+I0220 19:56:16.404796       1 networkpolicy_controller.go:974] Started watch for AddressGroup
+I0220 19:56:16.404832       1 networkpolicy_controller.go:974] Started watch for AppliedToGroup
+I0220 19:56:16.404816       1 egress_controller.go:1229] Started watch for EgressGroup
+I0220 19:56:16.407977       1 networkpolicy_controller.go:1004] Received 0 init events for NetworkPolicy
+I0220 19:56:16.407997       1 egress_controller.go:1257] Received 0 init events for EgressGroup
+I0220 19:56:16.408317       1 networkpolicy_controller.go:1004] Received 0 init events for AddressGroup
+I0220 19:56:16.408322       1 networkpolicy_controller.go:1004] Received 0 init events for AppliedToGroup

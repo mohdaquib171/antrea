@@ -1,0 +1,10 @@
+I0220 19:56:08.310969       1 controller.go:346] "Creating agent monitoring CRD" name="kind-worker"
+I0220 19:56:08.311066       1 controller.go:346] "Creating agent monitoring CRD" name="kind-worker2"
+I0220 19:56:08.395234       1 shared_informer.go:277] Caches are synced for client-ca::kube-system::extension-apiserver-authentication::client-ca-file
+I0220 19:56:08.395273       1 shared_informer.go:277] Caches are synced for RequestHeaderAuthRequestController
+I0220 19:56:08.395196       1 shared_informer.go:277] Caches are synced for client-ca::kube-system::extension-apiserver-authentication::requestheader-client-ca-file
+I0220 19:56:08.402975       1 shared_informer.go:277] Caches are synced for EgressController
+I0220 19:56:08.403391       1 shared_informer.go:277] Caches are synced for NetworkPolicyController
+I0220 19:56:08.619245       1 controller.go:352] "Skipping creating agent monitoring CRD as it already exists" name="kind-control-plane"
+I0220 19:56:08.815870       1 controller.go:352] "Skipping creating agent monitoring CRD as it already exists" name="kind-worker"
+I0220 19:56:09.018921       1 controller.go:352] "Skipping creating agent monitoring CRD as it already exists" name="kind-worker2"
